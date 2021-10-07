@@ -53,7 +53,7 @@ These are screenshots of an almost complete user journey on iOS.
 
 2. Clone our [Pflanzy](git@github.com:Pflanzy/Pflanzy-mobile-app.git) repository.
 
-   > \$ git clone https://github.com/Pflanzy/Pflanzy-mobile-app
+   > \$ git clone https://github.com/nehakalbande/PlantCare-Management
 
 3. Install and run npm:
 
@@ -67,7 +67,7 @@ These are screenshots of an almost complete user journey on iOS.
 
 ## Contributing
 
-1. Fork it (https://github.com/Pflanzy/Pflanzy-mobile-app)
+1. Fork it (https://github.com/nehakalbande/PlantCare-Management)
 2. Create your feature branch (git checkout -b feature/myContribution)
 3. Commit your changes (git commit -am 'Add some contribution')
 4. Push to the branch (git push origin feature/myContribution)
